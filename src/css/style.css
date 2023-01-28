@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background-color: aquamarine;
+}
+
+.app {
+  margin: auto;
+  text-align: center;
+  max-width: 95%;
+  min-height: 15vh;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.taskIsComplete {
+  text-decoration: line-through;
+}
+
+.taskInComplete {
+  text-decoration: none;
+}
